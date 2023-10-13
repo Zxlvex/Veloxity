@@ -3,7 +3,7 @@
 # Velocity Script
 
 ## Overview
-The "Velocity" script is a custom script designed for [your project name or purpose]. It provides functionality related to [briefly describe what the script does].
+The "Velocity" script is a custom script designed for [Velocity is a hub where you could find any scripts]. It provides functionality related to [Roblox exploting hub].
 
 ## Features
 - [More game support10+ scripts].
