@@ -12,4 +12,4 @@ The "Velocity" script is a custom script designed for [Velocity is a hub where y
 - [Must have a high end execution system].
 
 ##LoadString
--[loadstring(game:HttpGet("https://raw.githubusercontent.com/Zxlvex/Velocity/main/Veloxity.lua",true))()]
+-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zxlvex/Veloxity/VeloX/Veloxity.lua",true))()
